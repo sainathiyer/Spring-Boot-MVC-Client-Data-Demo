@@ -1,0 +1,1 @@
+Spring Boot MVC Client Data Demo project describes how we can accept the request from the client and process it on the back-end server.
